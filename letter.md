@@ -1,11 +1,20 @@
 ---
 layout: page
-title: Dear Yasi
+title: Dear Yasi,
 ---
 
-# Our Time Together
+Happy anniversary!! I know I tell you not to scan QR codes, but this one is okay. 
 
-testetsetsets
+## What's here?
+So I thought to put a few things on the website,
+
+1. Firstly, I created a <a href="https://ryancranie.com/yasi/">Recollection</a>, I put some of my favourite memories on here, and I hope we can walk through them together! :)
+2. Secondly, I gave you some extra <a href="https://ryancranie.com/yasi/flowers">flowers</a>, each time you refresh the page, it should give you more! Still though, this is simply not enough flowers for my baby.
+3. Thirdly, I created a <a href="https://ryancranie.com/yasi/jokes">jokes page</a>; I figured we laughed a lot at those dumb dad jokes so I wanted to give you some more.
+4. And lastly, I created a simple <a href="https://ryancranie.com/yasi/album">Album</a>. I was exclusive and chose my favourite pictures of us to put here.
+
+## Our Time Together
+Here shows how much time we have been together -
 
 <p id="together-time">
   <strong>Days:</strong> <span id="days"></span><br>
@@ -37,3 +46,9 @@ testetsetsets
   // Update the countdown every second
   setInterval(updateCountdown, 1000);
 </script>
+
+## I love you!!
+
+I hope you enjoy this (took ages fr), I love you.
+<br>
+<strong>NOTE</strong>: <em>I can take down, and put up this site, whenever you want. It's no inconvinience to me, and is only meant to exist as long as you see it :).<em>
