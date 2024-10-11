@@ -3,7 +3,15 @@ layout: page
 title: Dear Yasi,
 ---
 
-Happy anniversary!! I know I tell you not to scan QR codes, but this one is okay. 
+Surprise!! I've fooled you into scanning a QR code, and now <strong>you are mine</strong>... I've stolen your signature, and embedded it onto this marriage certificate, sooo... gg...
+
+picture here
+
+### Happy anniversary!!
+
+Happy first anniversary baby!! 
+
+You make me so happy, and I'm so fortunate to be called yours. 
 
 ## What's here?
 So I thought to put a few things on the website,
@@ -11,6 +19,7 @@ So I thought to put a few things on the website,
 1. Firstly, I created a <a href="https://ryancranie.com/yasi/">Recollection</a>, I put some of my favourite memories on here, and I hope we can walk through them together! :)
 2. Secondly, I gave you some extra <a href="https://ryancranie.com/yasi/flowers">flowers</a>, each time you refresh the page, it should give you more! Still though, this is simply not enough flowers for my baby.
 3. Thirdly, I created a <a href="https://ryancranie.com/yasi/jokes">jokes page</a>; I figured we laughed a lot at those dumb dad jokes so I wanted to give you some more.
+4. Fourthly, I wrote you a <a href="https://ryancranie.com/yasi/poem">poem</a> becauseee I'm such a sweetiepie fr.
 4. And lastly, I created a simple <a href="https://ryancranie.com/yasi/album">Album</a>. I was exclusive and chose my favourite pictures of us to put here.
 
 ## Our Time Together
@@ -47,7 +56,7 @@ Here shows how much time we have been together -
   setInterval(updateCountdown, 1000);
 </script>
 
-## I love you!!
+## You're the best
 
 I hope you enjoy this (took ages fr), I love you.
 <br>
