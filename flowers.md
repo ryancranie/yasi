@@ -3,17 +3,15 @@ layout: page
 title: Flowers for you!!
 ---
 
-<div id="image-container">
-    <img id="random-image" alt="Random Flower" />
-</div>
-
 <!-- This div will display the message about the flower number -->
 <p id="flower-message" style="text-align: center; font-size: 18px; margin-top: 15px;"></p>
 
-<br>
-
 <!-- Styled button to load a new random image -->
 <button id="new-flower-button" onclick="loadRandomImage()">Show Another Flower</button>
+
+<div id="image-container" style="text-align: center; margin-top: 20px;">
+    <img id="random-image" alt="Random Flower" />
+</div>
 
 <script>
 // Array of image file paths in the /img/flowers directory, accounting for the base URL
@@ -50,15 +48,17 @@ window.onload = loadRandomImage;
       border-radius: 5px; /* Rounded corners */
       cursor: pointer; /* Pointer cursor on hover */
       transition: background-color 0.3s ease; /* Smooth hover effect */
+      display: block; /* Block element for centering */
+      margin: 20px auto; /* Center the button */
   }
 
   #new-flower-button:hover {
       background-color: #ff85c2; /* Slightly lighter pink on hover */
   }
 
-  /* Center the button and add spacing */
-  #new-flower-button {
-      display: block;
-      margin: 20px auto;
+  /* Center the image container */
+  #image-container {
+      text-align: center; /* Center the image */
+      margin-top: 20px; /* Spacing above the image */
   }
 </style>
