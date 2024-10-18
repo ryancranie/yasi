@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dad Jokes for You!
+title: Jokes for you!!
 ---
 
 <div id="joke-container" style="text-align: center;">
