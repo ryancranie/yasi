@@ -5,7 +5,7 @@ title: Dear Yasi,
 
 Surprise!! I've fooled you into scanning a QR code, and now <strong>you are mine</strong>... I've stolen your signature, and embedded it onto this marriage certificate, sooo... gg...
 
-picture here
+<img src="{{ site.baseurl }}/img/marriage" style="width: 700px; height: auto;">
 
 ### Happy anniversary!!
 
