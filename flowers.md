@@ -40,7 +40,7 @@ window.onload = loadRandomImage;
 <!-- Styling for the button -->
 <style>
   #new-flower-button {
-      background-color: #ff69b4; /* Pink background */
+      background-color: rgb(172, 65, 66); /* Red background */
       color: white; /* White text */
       border: none; /* Remove border */
       padding: 10px 20px; /* Padding for the button */
