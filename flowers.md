@@ -10,7 +10,7 @@ title: Flowers for you!!
 <button id="new-flower-button" onclick="loadRandomImage()">Show Another Flower</button>
 
 <div id="image-container" style="text-align: center; margin-top: 20px;">
-    <img id="random-image" alt="Random Flower" />
+    <img id="random-image" alt="Random Flower" style="max-width: 100%; height: auto;" />
 </div>
 
 <script>
@@ -53,12 +53,20 @@ window.onload = loadRandomImage;
   }
 
   #new-flower-button:hover {
-      background-color: #ff85c2; /* Slightly lighter pink on hover */
+      background-color: rgb(172, 65, 66); /* Slightly lighter pink on hover */
   }
 
   /* Center the image container */
   #image-container {
       text-align: center; /* Center the image */
       margin-top: 20px; /* Spacing above the image */
+  }
+
+  /* Ensure the image is responsive */
+  #random-image {
+      max-width: 100%; /* Scale the image to fit its container */
+      height: auto; /* Maintain aspect ratio */
+      display: block; /* Ensure it's treated as a block element for centering */
+      margin: 0 auto; /* Center the image horizontally */
   }
 </style>

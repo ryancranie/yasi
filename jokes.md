@@ -27,7 +27,7 @@ function loadRandomJoke() {
     const randomJoke = jokes[randomIndex];
     
     document.getElementById('joke-setup').textContent = randomJoke.setup;
-    document.getElementById('joke-punchline').textContent = randomJoke.punchline;
+    document.getElementById('joke-punchline').innerHTML = `<strong>${randomJoke.punchline}</strong>`; // Make punchline bold
     document.getElementById('show-answer-button').style.display = "inline-block"; // Show answer button
     document.getElementById('joke-punchline').style.display = "none"; // Hide punchline initially
 }
