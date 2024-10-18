@@ -8,11 +8,11 @@ title: Flowers for you!!
 </div>
 
 <script>
-// Array of image file paths in the /img/flowers directory
+// Array of image file paths in the /img/flowers directory, accounting for the base URL
 const images = [
     {% for image in site.static_files %}
       {% if image.path contains '/img/flowers/' %}
-        "{{ image.path }}",
+        "{{ site.baseurl }}{{ image.path }}",
       {% endif %}
     {% endfor %}
 ];
