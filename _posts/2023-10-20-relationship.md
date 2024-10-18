@@ -3,8 +3,21 @@ layout: post
 title: Our anniversary date
 ---
 
-Today we kissed, and kept hanging out, we both agree that is when we we officially dating :) <3
+So now we're hanging, all in luv. etc. etc. The start of it all.
 
-<img src="{{ site.baseurl }}/img/IMG_E3623.JPG" style="width: 600px; height: auto;">
+The 20th October 2023, we kissed, just constanting hanging out. We both agree that is when we started officially dating :) <3
 
-> One of our very early facetime calls, I was in Abu Dhabi.
+Mini Yasi
+<img src="{{ site.baseurl }}/img/IMG_3639.JPG" style="width: auto; height: 100px;">
+
+Yasi — 09/10/2023
+> "nose with stud"
+> "stud is everything"
+> "if you get a nose piercing you'll get a girl like me..." OKAY
+
+Say less.
+
+Me: 21/10/2023
+<img src="{{ site.baseurl }}/img/IMG_E3281.JPG" style="width: 600px; height: auto;">
+
+Howcome I never pose in pictures?
