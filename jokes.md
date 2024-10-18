@@ -4,16 +4,13 @@ title: Dad Jokes for You!
 ---
 
 <div id="joke-container" style="text-align: center;">
+    <div class="button-container" style="margin-bottom: 20px;">
+        <button id="new-joke-button" onclick="loadRandomJoke()">Generate New Joke</button>
+        <button id="show-answer-button" onclick="toggleAnswer()" style="display: none;">Show Answer</button>
+    </div>
+    
     <p id="joke-setup" style="font-size: 24px;"></p> <!-- Increased font size -->
-    <button id="show-answer-button" onclick="toggleAnswer()" style="display: none;">Show Answer</button>
     <p id="joke-punchline" style="font-size: 24px; display: none;"></p> <!-- Increased font size -->
-</div>
-
-<br>
-
-<!-- Button container for alignment -->
-<div style="text-align: center;">
-    <button id="new-joke-button" onclick="loadRandomJoke()">Generate New Joke</button>
 </div>
 
 <script>
@@ -64,7 +61,7 @@ window.onload = loadRandomJoke;
   }
 
   #new-joke-button:hover, #show-answer-button:hover {
-      background-color: rgb(192, 80, 81); /* Slightly lighter shade on hover */
+      background-color: rgb(172, 65, 66); /* Slightly lighter shade on hover */
   }
 
   #joke-container {
