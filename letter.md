@@ -5,24 +5,23 @@ title: Dear Yasi,
 
 Surprise!! I've fooled you into scanning a QR code, and now <strong>you are mine</strong>... I've stolen your signature, and embedded it onto this marriage certificate, sooo... gg...
 
-<img src="{{ site.baseurl }}/img/marriage" style="width: 700px; height: auto;">
+<img src="{{ site.baseurl }}/img/marriage.png" style="width: 700px; height: auto;">
 
-### Happy anniversary!!
+## Happy anniversary!!
 
 Happy first anniversary baby!! 
 
 You make me so happy, and I'm so fortunate to be called yours. 
 
-## What's here?
+### What's here?
 So I thought to put a few things on the website,
 
-1. Firstly, I created a <a href="https://ryancranie.com/yasi/">Recollection</a>, I put some of my favourite memories on here, and I hope we can walk through them together! :)
-2. Secondly, I gave you some extra <a href="https://ryancranie.com/yasi/flowers">flowers</a>, each time you refresh the page, it should give you more! Still though, this is simply not enough flowers for my baby.
-3. Thirdly, I created a <a href="https://ryancranie.com/yasi/jokes">jokes page</a>; I figured we laughed a lot at those dumb dad jokes so I wanted to give you some more.
-4. Fourthly, I wrote you a <a href="https://ryancranie.com/yasi/poem">poem</a> becauseee I'm such a sweetiepie fr.
-4. And lastly, I created a simple <a href="https://ryancranie.com/yasi/album">Album</a>. I was exclusive and chose my favourite pictures of us to put here.
+1. Firstly, I created a <a href="https://ryancranie.com/yasi/">recollection</a>, I put some of my favourite memories on here, and I hope we can walk through them together! :)
+2. Secondly, I gave you some extra <a href="https://ryancranie.com/yasi/flowers">flowers</a>, just clikc the button and you'll see more! Still though, this is simply not enough flowers for my baby.
+3. Thirdly, I created a <a href="https://ryancranie.com/yasi/jokes">jokes page</a>; I figured we laughed a lot at those dumb dad jokes so I wanted us to joke about some more.
+4. And lastly, I created a simple <a href="https://ryancranie.com/yasi/album">album</a>. I was exclusive and chose my favourite pictures of us to put here.
 
-## Our Time Together
+### Our Time Together
 Here shows how much time we have been together -
 
 <p id="together-time">
@@ -34,7 +33,7 @@ Here shows how much time we have been together -
 
 <script>
   // Set the date you started dating (year, month-1, day)
-  const startDate = new Date(2023, 9, 20); // Example: November 10, 2022
+  const startDate = new Date(2023, 9, 20);
 
   function updateCountdown() {
     const now = new Date();
@@ -56,7 +55,7 @@ Here shows how much time we have been together -
   setInterval(updateCountdown, 1000);
 </script>
 
-## You're the best
+### You're the best
 
 I hope you enjoy this (took ages fr), I love you.
 <br>
