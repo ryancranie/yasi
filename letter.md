@@ -16,13 +16,13 @@ You make me so happy, and I'm so fortunate to be called yours.
 ### What's here?
 So I thought to put a few things on the website,
 
-1. Firstly, I created a <a href="https://ryancranie.com/yasi/">recollection</a>, I put some of my favourite memories on here, and I hope we can walk through them together! :)
-2. Secondly, I gave you some extra <a href="https://ryancranie.com/yasi/flowers">flowers</a>, just clikc the button and you'll see more! Still though, this is simply not enough flowers for my baby.
+1. Firstly, I created a <a href="https://ryancranie.com/yasi/">recollection</a>, I put some of our earliest memories on here, and I hope we can walk through them together! :)
+2. Secondly, I gave you some extra <a href="https://ryancranie.com/yasi/flowers">flowers</a>, just click the button and you'll see more! Still though, this is simply not enough flowers for my baby.
 3. Thirdly, I created a <a href="https://ryancranie.com/yasi/jokes">jokes page</a>; I figured we laughed a lot at those dumb dad jokes so I wanted us to joke about some more.
-4. And lastly, I created a simple <a href="https://ryancranie.com/yasi/album">album</a>. I was exclusive and chose my favourite pictures of us to put here.
+4. And lastly, I created a simple <a href="https://ryancranie.com/yasi/album">album</a>. I was exclusive and chose some of my favourite pictures of us to put here.
 
 ### Our Time Together
-Here shows how much time we have been together -
+Here shows how much time we have been together!!
 
 <p id="together-time">
   <strong>Days:</strong> <span id="days"></span><br>
