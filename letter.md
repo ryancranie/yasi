@@ -30,6 +30,8 @@ I hope you like the website, I love you baby <3
 
 Ryan
 
+<img src="{{ site.baseurl }}/img/IMG_4549.JPG" style="width: 600px; height: auto;">
+
 ### Soooo wuts on the website
 So I thought to put a few things on the website,
 
